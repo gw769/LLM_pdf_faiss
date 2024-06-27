@@ -43,6 +43,8 @@ To run the project locally, follow these steps:
 - **ask_qwen.py**: Script for querying JSON files using a large language model.
 - **fast_api.py**: Backend API utilizing HTTP protocols.
 - **streamlit.py**: Frontend interface utilizing HTTP protocols.
+
+
 ###ussage
 
 1.run add_all_pdf_to_FAISS_.py, recursively search for all PDFs in the announcements directory and add them to the vector database. You can choose image text recognition OCR, LLM_english.faiss file is vector database.
