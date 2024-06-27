@@ -2,6 +2,7 @@
 use streamlit (frontend) and fast_api (backend) to show the easy use for langchain RAG
 the llm use Ollama
 
+<img width="1194" alt="image" src="https://github.com/gw769/LLM_pdf_faiss/assets/61015990/66515c07-923c-4852-88c5-a2f1b4b68b3f">
 
 
 ### Features
