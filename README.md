@@ -53,7 +53,6 @@ To run the project locally, follow these steps:
 4.streamlit.py, front-end interface, connected with http protocol.
 
 ### Contribution
-Contributions are welcome! Feel free to submit issues and pull requests for bug fixes, improvements, or new features.
 The next version i want to add three fucntion:
 1. use the frontend to add pdf
 2. try use docker
