@@ -45,11 +45,14 @@ To run the project locally, follow these steps:
 - **streamlit.py**: Frontend interface utilizing HTTP protocols.
 
 
-###ussage
+### ussage
 
 1.run add_all_pdf_to_FAISS_.py, recursively search for all PDFs in the announcements directory and add them to the vector database. You can choose image text recognition OCR, LLM_english.faiss file is vector database.
+
 2.ask_qwen.py, for testing, mainly open all json files, and use the big model to look at the answer and save it to the json file.
+
 3.fast_api.py, backend api, connected with http protocol.
+
 4.streamlit.py, front-end interface, connected with http protocol.
 
 ### Contribution
