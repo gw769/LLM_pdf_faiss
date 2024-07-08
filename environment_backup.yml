@@ -318,4 +318,3 @@ dependencies:
     - typing-extensions==4.7.1
     - xxhash==3.3.0
     - zipp==3.15.0
-prefix: D:\Users\menghao\Anaconda3
