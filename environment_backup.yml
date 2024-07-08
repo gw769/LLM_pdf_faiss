@@ -215,7 +215,7 @@ dependencies:
   - pytest-doctestplus=0.2.0=py37_0
   - pytest-openfiles=0.3.1=py37_0
   - pytest-remotedata=0.3.1=py37_0
-  - python=3.7.1=h8c8aaf0_6
+  - python=3.11.4
   - python-dateutil=2.7.5=py37_0
   - python-libarchive-c=2.8=py37_6
   - python_abi=3.7=2_cp37m
